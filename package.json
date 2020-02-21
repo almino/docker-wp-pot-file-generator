@@ -1,0 +1,26 @@
+{
+  "name": "wp-pot-file-generator",
+  "version": "1.0.0",
+  "description": "POT file generator for WordPress' theme",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-filelog": "^0.4.1",
+    "gulp-wp-pot": "^2.3.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wordpress",
+    "gulp",
+    "pot",
+    "po",
+    "mo",
+    "language",
+    "translate"
+  ],
+  "author": "Almino Melo <almino@sobral.ufc.br>",
+  "license": "ISC"
+}
